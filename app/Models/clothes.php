@@ -10,16 +10,16 @@ use OpenApi\Annotations as OA;
 
 
 /**
- * Class Book.
+ * Class Clothes.
  * 
- * @author  Evelline <evelline.kristiani@ukrida.ac.id>
+ * @author  Bryan <bryan.422021003@civitas.ukrida.ac.id>
  * 
  * @OA\Schema(
- *     description="Book model",
- *     title="Book model",
+ *     description="Clothes model",
+ *     title="Clothes model",
  *     required={"title", "author"},
  *     @OA\Xml(
- *         name="Book"
+ *         name="Clothes"
  *     )
  * )
  */
